@@ -44,8 +44,6 @@ I am a certified SAFe® 5 Agile Solutions-oriented professional with over 9 year
 - Competitive Market Analysis
 - Forecasting and Planning
 - Communication
-
-### 📙 Additional Tools:
 - Backlog Management
 - Project Team Coordination (Active Directory, Workday)
 - Documentation and Reporting
@@ -53,4 +51,3 @@ I am a certified SAFe® 5 Agile Solutions-oriented professional with over 9 year
 ## 📊 GitHub Stats 📊
 
 ![Nsikak A. Idet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newbreedcraft&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newbreedcraft&show_icons=true&theme=radical)
