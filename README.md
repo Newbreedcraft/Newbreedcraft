@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hello, I'm Nsikak A. Idet
 
-<!--
-**Newbreedcraft/Newbreedcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SAFe® 5 Agile Solutions-Oriented Professional
 
-Here are some ideas to get you started:
+<div align="left"> 
+  <a href="mailto:talk2nsikak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://www.linkedin.com/in/nsikak-a-idet" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+I am a certified SAFe® 5 Agile Solutions-oriented professional with over 9 years of experience in planning, directing, coordinating, and managing co-located and off-site QA teams operating under Agile and Lean guidelines. I excel in technology implementation, project planning, team management, capacity building, and personal development, and am admired for delivering value to satisfied product owners and stakeholders. <br>
+
+<br> 
+
+<div align="left">
+ 
+ 🔭 I’m currently working on **Agile and Lean Project Management**
+
+ 🌱 I’m currently learning more about **Advanced Data Analysis Techniques**
+
+💬 Ask me about **Agile Solutions and Team Management**
+
+📧 Reach me at: talk2nsikak@gmail.com
+
+ </div>
+
+<br/>
+
+## 💻 Skills 💻
+
+### 📕 Technical:
+- Agile Project Management
+- Data Analysis (Tableau, SharePoint, Excel)
+- Jira and ServiceNow
+- AWS QuickSight for Reporting and Visualization
+
+### 📗 Soft Skills:
+- Executive-Level Presentations
+- Reusable Knowledge Assets
+- Competitive Market Analysis
+- Forecasting and Planning
+- Communication
+
+### 📙 Additional Tools:
+- Backlog Management
+- Project Team Coordination (Active Directory, Workday)
+- Documentation and Reporting
+
+## 📊 GitHub Stats 📊
+
+![Nsikak A. Idet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newbreedcraft&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newbreedcraft&show_icons=true&theme=radical)
